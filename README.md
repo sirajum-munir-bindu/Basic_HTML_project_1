@@ -1,2 +1,1 @@
-# web-project-1
-hi .
+# Basic_HTML_project_1
